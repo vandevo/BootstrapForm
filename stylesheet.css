@@ -3,18 +3,21 @@ body {
     background-color: gainsboro;
 }
 
-h1 {
+
+.sub-head {
     color: gainsboro;
     font-size: 72px;
     background-color: teal;
     padding: 30px 0;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 0px;
     margin-top: 0;
-
-
-    
+    border-bottom: 10px solid aquamarine;
 }
+.white-text {
+    color:lightslategray;
+}
+    
 
 h2 {
     color: teal;
@@ -25,4 +28,18 @@ img {
     max-width: 150px;
     border-radius: 25px;
     
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;;
+}
+
+.columns {
+    display: flexbox;
+}
+
+.col-right {
+    margin: 20px;
 }
