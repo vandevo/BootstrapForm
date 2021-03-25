@@ -1,0 +1,28 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: gainsboro;
+}
+
+h1 {
+    color: gainsboro;
+    font-size: 72px;
+    background-color: teal;
+    padding: 30px 0;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 0;
+
+
+    
+}
+
+h2 {
+    color: teal;
+    
+}
+
+img {
+    max-width: 150px;
+    border-radius: 25px;
+    
+}
